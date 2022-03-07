@@ -1,4 +1,3 @@
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Sentech/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Sentech/tree/main)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FSentech)
@@ -13,7 +12,6 @@
    
 Sentech is a decentralized application for digital currency and tokenized asset management, including derivatives trading. Sentech transparently displays holdings in real time, and fully supports lending, borrowing, and arbitration markets. Sentech’s derivative tools allow for the creation of any imaginable call or put option.
 We're thrilled to announce the launch of Sentech, a decentralized application for digital currency and tokenized asset management, as well as derivatives trading.
-
 Sentech is a blockchain application that's built on the Ethereum platform. It's basically a peer-to-peer application that enables users to exchange and trade digital currency and tokenized assets, as well as derivatives.
 
 By using smart contracts, it provides its users with streamlined, self-executing interactions that are secured by cryptographic protocols. These types of contracts have been used in the past for simple things like purchases of products or services, but we've taken it to the next level. We think you'll be blown away at how much more you can do with it now!
