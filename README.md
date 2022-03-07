@@ -1,6 +1,6 @@
 
-
-
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/network)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/issues)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8389f2fb-1bde-44bc-adbd-fa49ec902337/deploy-status)](https://app.netlify.com/sites/sentech/deploys)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Sentech.svg/?label=active+issues&show_trend=true&token=wKEZHatw6Y6TluJCktgIHSt-)](https://deepsource.io/gh/KOSASIH/Sentech/?ref=repository-badge)
