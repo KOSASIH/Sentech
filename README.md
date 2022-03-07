@@ -54,3 +54,6 @@ By using smart contracts, it provides its users with streamlined, self-executing
 Sentech is a decentralized application (Dapp) that combines all the functions and tools that are needed by traders and investors to start trading in digital currencies and tokens. Its solutions include a financial library, news and analysis platform, social network, crowdfunding platform, portfolio and cryptocurrency management system, hedging instruments for hedging against fluctuations in the market price, liquidity pool for purchasing cryptocurrencies at the best rate, cryptocurrency exchange with a number of trading instruments. The project also provides its users with comprehensive information about upcoming ICOs.
 
 # Sentech Site
+
+https://replit.com/join/viqnitmhta-kosasih
+
