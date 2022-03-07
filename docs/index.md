@@ -10,9 +10,6 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Sentech.svg/?label=active+issues&show_trend=true&token=wKEZHatw6Y6TluJCktgIHSt-)](https://deepsource.io/gh/KOSASIH/Sentech/?ref=repository-badge)
 [![Documentation Status](https://readthedocs.org/projects/sentech/badge/?version=latest)](https://sentech.readthedocs.io/en/latest/?badge=latest)
       
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Sentech">Sentech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
-
 # Sentech
 
 Decentralized application for digital currency and tokenized asset management also derivatives trading
@@ -24,3 +21,7 @@ Sentech is a decentralized application for digital currency and tokenized asset 
 # Sentech Mission
 
 To realize a valuable and effective blockchain solution for asset management.
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Sentech">Sentech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+# 
