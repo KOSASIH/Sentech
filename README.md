@@ -1,3 +1,7 @@
+
+
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Sentech.svg/?label=active+issues&show_trend=true&token=wKEZHatw6Y6TluJCktgIHSt-)](https://deepsource.io/gh/KOSASIH/Sentech/?ref=repository-badge)
+
 # Sentech
 
 Decentralized application for digital currency and tokenized asset management also derivatives trading
