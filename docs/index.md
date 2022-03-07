@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+[![CircleCI](https://circleci.com/gh/KOSASIH/Sentech/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Sentech/tree/main)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FSentech)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/network)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/issues)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8389f2fb-1bde-44bc-adbd-fa49ec902337/deploy-status)](https://app.netlify.com/sites/sentech/deploys)
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Sentech.svg/?label=active+issues&show_trend=true&token=wKEZHatw6Y6TluJCktgIHSt-)](https://deepsource.io/gh/KOSASIH/Sentech/?ref=repository-badge)
+[![Documentation Status](https://readthedocs.org/projects/sentech/badge/?version=latest)](https://sentech.readthedocs.io/en/latest/?badge=latest)
+      
 
-You can use the [editor on GitHub](https://github.com/KOSASIH/Sentech/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Sentech">Sentech</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Sentech
 
-### Markdown
+Decentralized application for digital currency and tokenized asset management also derivatives trading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Description
 
-```markdown
-Syntax highlighted code block
+Sentech is a decentralized application for digital currency and tokenized asset management, including derivatives trading. Sentech transparently displays holdings in real time, and fully supports lending, borrowing, and arbitration markets. Sentech’s derivative tools allow for the creation of any imaginable call or put option.
 
-# Header 1
-## Header 2
-### Header 3
+# Sentech Mission
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KOSASIH/Sentech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To realize a valuable and effective blockchain solution for asset management.
