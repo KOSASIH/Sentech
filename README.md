@@ -1,4 +1,6 @@
 
+
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/network)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/issues)
