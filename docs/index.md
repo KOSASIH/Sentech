@@ -1,3 +1,8 @@
+# Sentech
+
+Decentralized application for digital currency and tokenized asset management also derivatives trading
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![CircleCI](https://circleci.com/gh/KOSASIH/Sentech/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Sentech/tree/main)
@@ -9,13 +14,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8389f2fb-1bde-44bc-adbd-fa49ec902337/deploy-status)](https://app.netlify.com/sites/sentech/deploys)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Sentech.svg/?label=active+issues&show_trend=true&token=wKEZHatw6Y6TluJCktgIHSt-)](https://deepsource.io/gh/KOSASIH/Sentech/?ref=repository-badge)
 [![Documentation Status](https://readthedocs.org/projects/sentech/badge/?version=latest)](https://sentech.readthedocs.io/en/latest/?badge=latest)
-      
-# Sentech
-
-Decentralized application for digital currency and tokenized asset management also derivatives trading
-
-# Description
-
+     
 Sentech is a decentralized application for digital currency and tokenized asset management, including derivatives trading. Sentech transparently displays holdings in real time, and fully supports lending, borrowing, and arbitration markets. Sentech’s derivative tools allow for the creation of any imaginable call or put option.
 
 # Sentech Mission
