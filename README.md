@@ -1,4 +1,6 @@
 
+
+[![CircleCI](https://circleci.com/gh/KOSASIH/Sentech/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Sentech/tree/main)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FSentech)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Sentech)](https://github.com/KOSASIH/Sentech/stargazers)
